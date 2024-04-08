@@ -1,5 +1,7 @@
 ### Hi there 👋
+My name is Lazarev Atakhan and I am an AUCA sophomore student majoring in Software Engineering (Bachelor's)
 
+Currently trying out various things.
 <!--
 **lazarev-a-auca-2022/lazarev-a-auca-2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
